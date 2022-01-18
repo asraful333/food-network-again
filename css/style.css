@@ -59,3 +59,39 @@ h2 {
     background-repeat: no-repeat;
     margin-bottom: 50px;
 }
+.order-section {
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 50px;
+}
+.order-items {
+    display: flex;
+}
+.item {
+    width: 33.3%;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.555);
+    border-radius: 15px;
+    padding: 15px;
+}
+.item img {
+    width: 100%;
+}
+#item-2 {
+    margin: 0 4%;
+}
+.recipies-title {
+    font-size: 30px;
+    text-align: center;
+    color: gray;
+}
+.order-p {
+    text-align: center;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    color: gray;
+}
+.item-p {
+    color: gray;
+}
