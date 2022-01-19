@@ -95,3 +95,43 @@ h2 {
 .item-p {
     color: gray;
 }
+h4 {
+    font-size: 20px;
+    font-weight:600;
+}
+.social-tab {
+    margin: 100px 0;
+}
+.social-media {
+    display: flex;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.486);
+    border-radius: 15px;
+}
+.social {
+    width: 33.3%;
+    text-align: center;
+    padding: 50px 0;
+}
+h6 {
+    margin: 0;
+    color: gray;
+}
+footer {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background-color:#0B0D17;
+}
+.food-color {
+    color: orange;
+}
+#network-color {
+    color: gray;
+}
+#small-text {
+    color: white;
+    font-weight: lighter;
+}
